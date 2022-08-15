@@ -146,6 +146,9 @@ a {
   margin-bottom: 3em;
   padding-left: 2em;
 }
+.card--work-history strong {
+  text-transform: uppercase !important;
+}
 
 .line-break {
   background-color: var(--mainBorderColor);
