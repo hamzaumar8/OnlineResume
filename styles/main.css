@@ -79,6 +79,7 @@ a {
   width: 250px;
   height: 250px;
   object-fit: cover;
+  /* transform: scale(1.5); */
   border-radius: 50%;
 }
 
